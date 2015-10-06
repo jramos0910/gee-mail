@@ -1,0 +1,41 @@
+body {
+	font-family:Arial,Helvetica,freesans,sans-serif;
+	}
+
+.container {
+	background-color: #EA4335;
+	height: 100px;
+	font-size: 98px;
+	text-align: center;
+	}
+
+.inbox {
+	font-size: 25px;
+	text-align: center;
+	}
+
+.content {
+  color: black;
+  text-align: center;
+    }
+
+.date {
+  background-color: #FBBC05;
+  width: 33.1%;
+  font-size: 40px;
+  display: inline-table;
+    }
+
+.sender {
+  background-color: #4285F4;
+  width: 33.1%;
+  font-size: 40px;
+  display: inline-table;
+    }
+
+.subject {
+  background-color: #34A853;
+  width: 33.1%;
+  font-size: 40px;
+  display: inline-table;
+    }
